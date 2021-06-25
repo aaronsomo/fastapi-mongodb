@@ -25,7 +25,7 @@ def student_helper(student) -> dict:
 
 
 #
-# Database CRUD operations
+# Database CRUD operations via motor
 #
 
 

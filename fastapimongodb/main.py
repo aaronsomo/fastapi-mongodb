@@ -1,3 +1,5 @@
+# spin up poetry shell to run scripts
+
 import uvicorn
 
 if __name__ == "__main__":
